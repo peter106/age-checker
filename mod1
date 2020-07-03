@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+</head>
+
+<body>
+    <header>
+        <h1>Verificador de Idade </h1>
+
+
+    </header>
+    <section>
+        <div id="mgs">
+            Aqui vai aparecer a..
+
+        </div>
+        <div id="foto">
+            <img id="imagem" src="fotomanha.png.png" alt="Foto do dia">
+
+        </div>
+    </section>
+    <footer>
+        <p> &copy;Peterson chicale</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
